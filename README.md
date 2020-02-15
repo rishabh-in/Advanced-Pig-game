@@ -1,8 +1,7 @@
 # Advanced-Pig-game
 Advanced version of pig game with some new rules.
 
-#Rules
-Change the game to follow these rules:
+# Rules
 
 1. A player looses his ENTIRE score when he rolls two 6 in a row. After that, it's the 
 next player's turn.
